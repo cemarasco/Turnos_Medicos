@@ -27,7 +27,7 @@ Key fields include:
 
 ### Overview
 
-![Dashboard](imágenes/TABLERO MÉDICO.png)
+![Dashboard](images/DASHBOARD MEDICO.png)
 
 ### Medical activity analysis
 
