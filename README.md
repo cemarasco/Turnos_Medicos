@@ -37,6 +37,20 @@ Key fields include:
 
 ![Heatmap](images/heatmap_turnos.png)
 
+## 🔎 Key Insights
+
+The dashboard analysis highlights several relevant patterns in medical appointment demand:
+
+- A total of **1200 appointments** were registered during the analyzed period.
+- The **cancellation rate is 13%**, indicating a moderate level of patient absence.
+- General consultations and gynecological studies represent the **most requested services**.
+- Appointment demand is relatively balanced among doctors.
+- The **highest concentration of appointments occurs between 9:00 and 12:00**, showing a peak demand in the morning.
+
+### Insights visualization
+
+![Insights](images/insights_medico.png)
+
 ---
 
 ## 🔎 Key Insights
