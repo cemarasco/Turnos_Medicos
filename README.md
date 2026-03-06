@@ -49,7 +49,7 @@ The dashboard analysis highlights several relevant patterns in medical appointme
 
 ### Insights visualization
 
-![Insights](images/INSIGHTS (medico).png)
+![Insights](images/INSIGHTS_medico.png)
 
 ---
 
